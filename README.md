@@ -34,6 +34,8 @@ A `Post` can have a `title` and a `content` fields
 
 Let's do this 🙂
 
+Obs: The files has generateds in your respectives folders
+
 #### CRUD generator command :
 
 ``` php artisan make:crud nameOfYourCrud "column1:type, column2" ``` (theory)
